@@ -1,0 +1,6 @@
+paypal-accounts.com
+spf=fail
+dmarc=none
+suspicious sender domain
+social engineering attempt
+potential phishing infrastructure
